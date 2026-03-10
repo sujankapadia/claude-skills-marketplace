@@ -1,0 +1,20 @@
+{
+  "local": [
+    {"name": "6ABC Philadelphia", "url": "https://6abc.com/feed/"},
+    {"name": "WHYY", "url": "https://whyy.org/feed/"}
+  ],
+  "us": [
+    {"name": "NPR", "url": "https://feeds.npr.org/1001/rss.xml"},
+    {"name": "AP News", "url": "https://feedx.net/rss/ap.xml"},
+    {"name": "NBC News", "url": "https://feeds.nbcnews.com/nbcnews/public/news"}
+  ],
+  "world": [
+    {"name": "BBC World", "url": "https://feeds.bbci.co.uk/news/world/rss.xml"},
+    {"name": "NYT Top Stories", "url": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml"}
+  ],
+  "finance": [
+    {"name": "MarketWatch", "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories"},
+    {"name": "CNBC Business", "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10001147"},
+    {"name": "Yahoo Finance", "url": "https://finance.yahoo.com/news/rssindex"}
+  ]
+}

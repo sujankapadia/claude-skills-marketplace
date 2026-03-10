@@ -1,0 +1,34 @@
+{
+  "name": "sujan-skills",
+  "owner": {
+    "name": "Sujan Kapadia"
+  },
+  "metadata": {
+    "description": "A collection of practical Claude Code skills for daily life and productivity.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "morning-briefing",
+      "source": "./plugins/morning-briefing-plugin",
+      "description": "Get a concise morning news briefing covering local (Philadelphia), US, world, and finance news from RSS feeds.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Sujan Kapadia"
+      },
+      "keywords": ["news", "briefing", "rss", "morning"],
+      "category": "productivity"
+    },
+    {
+      "name": "umms-lunch-menu",
+      "source": "./plugins/umms-lunch-menu-plugin",
+      "description": "Check the Upper Merion Middle School lunch menu for today or a specific date.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Sujan Kapadia"
+      },
+      "keywords": ["school", "lunch", "menu"],
+      "category": "personal"
+    }
+  ]
+}

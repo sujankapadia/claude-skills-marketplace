@@ -1,0 +1,8 @@
+{
+  "name": "morning-briefing",
+  "description": "Get a concise morning news briefing covering local (Philadelphia), US, world, and finance news from RSS feeds.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Sujan Kapadia"
+  }
+}
