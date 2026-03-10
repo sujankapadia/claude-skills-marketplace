@@ -76,7 +76,8 @@ def main():
 
             print(f"### {source['name']}")
             for art in articles:
-                print(f"- **{art['title']}**")
+                link_suffix = f" ([link]({art['link']}))" if art.get("link") else ""
+                print(f"- **{art['title']}**{link_suffix}")
                 if art["description"]:
                     print(f"  {art['description']}")
             print()
