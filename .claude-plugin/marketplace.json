@@ -20,14 +20,14 @@
       "category": "productivity"
     },
     {
-      "name": "umms-lunch-menu",
-      "source": "./plugins/umms-lunch-menu-plugin",
-      "description": "Check the Upper Merion Middle School lunch menu for today or a specific date.",
-      "version": "1.0.0",
+      "name": "umms-food-menu",
+      "source": "./plugins/umms-food-menu-plugin",
+      "description": "Check the Upper Merion Middle School breakfast and lunch menus for today or a specific date.",
+      "version": "1.1.0",
       "author": {
         "name": "Sujan Kapadia"
       },
-      "keywords": ["school", "lunch", "menu"],
+      "keywords": ["school", "breakfast", "lunch", "menu"],
       "category": "personal"
     }
   ]
