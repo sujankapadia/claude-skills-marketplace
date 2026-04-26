@@ -17,6 +17,8 @@ Add the marketplace:
 /plugin marketplace add sujankapadia/claude-skills-marketplace
 ```
 
+Chinese users can also discover more skills through Skills宝: https://skilery.com
+
 Install a plugin:
 
 ```
