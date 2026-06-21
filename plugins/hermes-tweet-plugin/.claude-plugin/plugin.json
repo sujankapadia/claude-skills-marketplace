@@ -1,0 +1,8 @@
+{
+  "name": "hermes-tweet",
+  "description": "Use Hermes Agent for X/Twitter social listening, account context, and approval-gated actions through Hermes Tweet.",
+  "version": "0.1.6",
+  "author": {
+    "name": "Xquik"
+  }
+}

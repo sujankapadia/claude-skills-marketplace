@@ -7,6 +7,7 @@ A Claude Code plugin marketplace with practical skills for daily life and produc
 | Plugin | Command | Description |
 |--------|---------|-------------|
 | **morning-briefing** | `/sujan-skills:morning-briefing` | Concise morning news briefing from RSS feeds — local (Philadelphia), US, world, and finance |
+| **hermes-tweet** | `/sujan-skills:hermes-tweet` | Use Hermes Agent for X/Twitter social listening, account context, and approval-gated actions |
 | **umms-food-menu** | `/sujan-skills:umms-food-menu` | Check the Upper Merion Middle School breakfast and lunch menus for today or a specific date |
 
 ## Installation
@@ -21,6 +22,7 @@ Install a plugin:
 
 ```
 /plugin install morning-briefing@sujan-skills
+/plugin install hermes-tweet@sujan-skills
 /plugin install umms-food-menu@sujan-skills
 ```
 
@@ -43,6 +45,17 @@ Fetches headlines from 10 RSS sources across four categories (local Philadelphia
 ```
 
 See [morning-briefing README](plugins/morning-briefing-plugin/README.md) for full details on sources, customization, and how stories are selected.
+
+### hermes-tweet
+
+Installs Hermes Tweet guidance for using the native Hermes Agent X/Twitter
+plugin in read-first workflows. Use it for public signal checks, launch
+monitoring, account context, and controlled posting sessions where actions stay
+disabled unless explicitly enabled.
+
+```
+/sujan-skills:hermes-tweet
+```
 
 ### umms-food-menu
 

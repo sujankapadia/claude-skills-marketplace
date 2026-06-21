@@ -20,6 +20,17 @@
       "category": "productivity"
     },
     {
+      "name": "hermes-tweet",
+      "source": "./plugins/hermes-tweet-plugin",
+      "description": "Use Hermes Agent for X/Twitter social listening, account context, and approval-gated actions through Hermes Tweet.",
+      "version": "0.1.6",
+      "author": {
+        "name": "Xquik"
+      },
+      "keywords": ["hermes", "twitter", "x", "social", "briefing"],
+      "category": "productivity"
+    },
+    {
       "name": "umms-food-menu",
       "source": "./plugins/umms-food-menu-plugin",
       "description": "Check the Upper Merion Middle School breakfast and lunch menus for today or a specific date.",
